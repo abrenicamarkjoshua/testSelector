@@ -1,2 +1,0 @@
-# testSelector
-Created with CodeSandbox
